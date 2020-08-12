@@ -1,0 +1,28 @@
+Part Value              Device             Package         Description                   
+D1   1N4004             1N4004             DO41-10         DIODE                                                                
+D2   1N4004             1N4004             DO41-10         DIODE                                                                
+H1   MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD         MOUNTING PAD, round                                                  
+H2   MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD         MOUNTING PAD, round                                                  
+H3   MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD         MOUNTING PAD, round                                                  
+H4   MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8 2,8-PAD         MOUNTING PAD, round                                                  
+JP2                     HEADER-1X4ROUND    1X04_ROUND      PIN HEADER                                                           
+Q1   2N7000             2N700TO-92-OVAL    TO92-OVAL       2N7000, 2N7002, NDS7002A                                             
+Q2   2N7000             2N700TO-92-OVAL    TO92-OVAL       2N7000, 2N7002, NDS7002A                                             
+R1   4.7K               R-EU_0207/7        0207/7          RESISTOR, European symbol                                          
+R2   1K                 R-EU_0207/7        0207/7          RESISTOR, European symbol                                          
+R3   1K                 R-EU_0207/7        0207/7          RESISTOR, European symbol                                         
+R4   10K                R-EU_0207/7        0207/7          RESISTOR, European symbol                                         
+R5   10K                R-EU_0207/7        0207/7          RESISTOR, European symbol                                         
+R6   10K                R-EU_0207/7        0207/7          RESISTOR, European symbol                                          
+R7   10K                R-EU_0207/7        0207/7          RESISTOR, European symbol                                         
+SG1  F/TMB              F/TMB              F/TMB           BUZZER Source: Buerklin             
+T1   2N2222             2N2222             TO92-EBC-OVAL   NPN TRANSISTOR                                                       
+T2   2N2222             2N2222             TO92-EBC-OVAL   NPN TRANSISTOR                                                       
+U$2  WEMOS              WEMOS              WEMOS                                                                                
+U$3  RELAYPTH           RELAYPTH           SRD-05VDC-SL-C  SPDT relay (COM-00101)                                               
+U$4  RELAYPTH           RELAYPTH           SRD-05VDC-SL-C  SPDT relay (COM-00101)                                               
+X1   MKDSN1,5/2-5,08    MKDSN1,5/2-5,08    MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme                                        
+X2   MKDSN1,5/3-5,08    MKDSN1,5/3-5,08    MKDSN1,5/3-5,08 MKDSN 1,5/ 3-5,08 Printklemme                                        
+X3   MKDSN1,5/3-5,08    MKDSN1,5/3-5,08    MKDSN1,5/3-5,08 MKDSN 1,5/ 3-5,08 Printklemme                                        
+X4   MKDSN1,5/3-5,08    MKDSN1,5/3-5,08    MKDSN1,5/3-5,08 MKDSN 1,5/ 3-5,08 Printklemme                                        
+X5   MKDSN1,5/2-5,08    MKDSN1,5/2-5,08    MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme                                        
